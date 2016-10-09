@@ -6,6 +6,7 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Comment your god damned code, Steve!
 - rm -rf all the things.  
 - Shitpost and troll
+- Sometimes you have to go full retard to be understood by a conference room full of downsies.
 - If you must comment your code, make sure it's functionally useless and hilarious.
 - Upgrayedd will eventually find you and you better have his money.
 - Safe spaces don't exist here in the real world.  Call people on their bullshit and expect to be called on yours.
