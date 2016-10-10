@@ -6,6 +6,7 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Comment your god damned code, Steve!
 - rm -rf all the things.  
 - Shitpost and troll
+- Sudo?  Ain't nobody go time fo dat!  Run as root always.  Shit saves time  and makes disasters even more disasterous 
 - Sometimes you have to go full retard to be understood by a conference room full of downsies.
 - If you must comment your code, make sure it's functionally useless and hilarious.
 - Upgrayedd will eventually find you and you better have his money.
@@ -17,4 +18,4 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Pimpin ain't easy if you're the CEO of backpage.
 - Drink, do drugs, and act like your boss is right next to you calling you a pussy for not taking that next shot (cause if you have a cool boss that's exactly what he's doing).
 
-#YOLO motherfuckers!
+# #YOLO motherfuckers!
