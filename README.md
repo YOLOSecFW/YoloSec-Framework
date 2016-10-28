@@ -19,6 +19,7 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Don't take yourself or others so seriously.  Remember this was a hobby before it became a career.
 - < obligatory fuck bitches, get money >
 - A flat network is always a good idea
+- find /var/log* -mtime +1 -exec wipe -fr {} \; && wipe -fr /tmp* && wipe -fr ~/.bash_history
 - Can you really be far even as decided half as much to use go wish for that?
 - Linkedin is one of the weirdest dating sites.
 - Pimpin ain't easy if you're the CEO of backpage.
