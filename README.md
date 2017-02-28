@@ -8,7 +8,7 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Always upgrayedd on Friday at 16:45. Double Dose of dumpsterfire.
 - /dev/null all alerts
 - rm -rf all the things.  
-- Shitpost and troll
+- Shitpost and troll.  Deploy a box of trollololol
 - Shitpost some more.
 - Refer to yourself as Uncle Dad.
 - Click links with reckless abandon.  What's the worst that could happen?  It's not your personal machine anyways.
@@ -18,11 +18,16 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Upgrayedd will eventually find you and you better have his money.
 - Safe spaces don't exist here in the real world.  Call people on their bullshit and expect to be called on yours.
 - Don't take yourself or others so seriously.  Remember this was a hobby before it became a career.
+- Who has time for change control process and procedures? DEPLOY STRAIGHT TO PRODUCTION!
+- Don't write pentest reports. But if they make you, send a csv written in comic sans with vague descriptions of random vulnerabilities. Set row height and column width to 1337, because you're 1337.
 - < obligatory fuck bitches, get money >
 - A flat network is always a good idea
-- find /var/log* -mtime +1 -exec wipe -fr {} \; && wipe -fr /tmp* && wipe -fr ~/.bash_history
+- find /var/log* -mtime +1 -exec wipe -fr {} \; && wipe -fr /tmp* && wipe -fr ~/.bash_history and then don't wash your hands after you wipe.
+- Your password must contain one upper, one lower, and one special. But how do you enter 'cocaine-cannabis-MDMA'?
 - Can you really be far even as decided half as much to use go wish for that?
 - Linkedin is one of the weirdest dating sites.
+- Commit code with broken tests. Passing tests is for nerds.
 - Pimpin ain't easy if you're the CEO of backpage.
+- MAKE UPPERCASE GREAT AGAIN!
 
 # #YOLO motherfuckers!
