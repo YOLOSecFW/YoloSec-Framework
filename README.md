@@ -1,6 +1,7 @@
 # YoloSec-Framework
 A framework for doing security by the seat of your pants.  Assuming you're wearing any.  Please God, don't tell me you're not wearing any pants...  Unless you're a cute infosec girl then it's cool. 
 
+- Ask me about my. I double dong dare you.
 - Break shit in production because QA is for pussies.
 - Blame the devs when shit goes south. 
 - Push code without source control
