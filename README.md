@@ -16,6 +16,9 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Sudo?  Ain't nobody go time fo dat!  Run as root always.  Shit saves time  and makes disasters even more disasterrific
 - Sometimes you have to go full retard to be understood by a conference room full of downsies.
 - If you must comment your code, make sure it's functionally useless, contradictory, and hilarious.
+- Save the root password in a text file only readable by root
+- Copy-paste commands from abandoned online discussion forums, it'll make the dumpsterfire burn brighter
+- Install LUKS with a detached header and leave your USB stick in the pants for when your mom washes them
 - Upgrayedd will eventually find you and you better have his money.
 - Safe spaces don't exist here in the real world.  Call people on their bullshit and expect to be called on yours.
 - Don't take yourself or others so seriously.  Remember this was a hobby before it became a career.
