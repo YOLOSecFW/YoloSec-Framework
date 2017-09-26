@@ -14,6 +14,7 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Refer to yourself as Uncle Dad.
 - Click links with reckless abandon.  What's the worst that could happen?  It's not your personal machine anyways.
 - Sudo?  Ain't nobody go time fo dat!  Run as root always.  Shit saves time  and makes disasters even more disasterrific
+- Sometimes making a mountain out of a molehill is the only way.  Other times, making a shrine for cockroach is. #trevorforget
 - Sometimes you have to go full retard to be understood by a conference room full of downsies.
 - If you must comment your code, make sure it's functionally useless, contradictory, and hilarious.
 - Save the root password in a text file only readable by root
@@ -32,6 +33,7 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Linkedin is one of the weirdest dating sites.
 - Commit code with broken tests. Passing tests is for nerds.
 - Pimpin ain't easy if you're the CEO of backpage.
+- Keep your CoC in your pants.  It ain't impressive and is not as impactful as you think
 - MAKE UPPERCASE GREAT AGAIN!
 
 # #YOLO motherfuckers!
